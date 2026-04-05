@@ -315,6 +315,4 @@ Frontend Developer Intern Assignment Submission
 
 ---
 
-<p align="center">
-  Built with ❤️ for <strong>Zorvyn</strong> • 2026
-</p>
+
